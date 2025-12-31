@@ -3,11 +3,12 @@
     {
       "id": "everdew",
       "name": "Everdew",
-      "description": "A calm fantasy adventure.",
+      "description": "A calm farming game.",
       "version": "0.1.0",
       "image": "everdew.jpg",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.0/Everdew.zip",
-      "categories": ["Indie", "RPG"]
+      "categories": ["Indie"]
     }
   ]
 }
+
