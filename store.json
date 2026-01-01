@@ -20,7 +20,7 @@
       "description": "Something lurks in the shadows!",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/theforgottenline-v0.1.0/The.Forgotten.Line.zip",
-      "categories": ["Mystery", "Horror"],
+      "categories": ["Mystery"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
       "screenshots": [
@@ -31,6 +31,7 @@
     }
   ]
 }
+
 
 
 
