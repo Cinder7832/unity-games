@@ -28,21 +28,17 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg"
       ]
+    },
+    {
+      "id": "slimeimpact-v1.0.0",
+      "name": "Slime Impact",
+      "description": "Hutao Parkour",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
+      "categories": ["Indie"],
+      "imageUrl": "",
+      "heroUrl": "",
+      "screenshots": []
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
