@@ -41,7 +41,7 @@
       "id": "smallproblems",
       "name": "Small Problems",
       "description": "There are some small problems!",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
       "categories": ["Indie"],
       "imageUrl": "",
@@ -50,3 +50,4 @@
     }
   ]
 }
+
