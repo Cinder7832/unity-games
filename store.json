@@ -1,15 +1,33 @@
 {
-  "id": "everdew",
-  "name": "Everdew",
-  "description": "A calm farming game.",
-  "version": "0.1.0",
-  "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.1/Everdew.zip",
-  "categories": ["Indie"],
-
-  "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
-  "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
-  "screenshots": [
-    "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
-    "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg"
+  "games": [
+    {
+      "id": "everdew",
+      "name": "Everdew",
+      "description": "A calm farming game.",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.0/Everdew.zip",
+      "categories": ["Indie"],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg"
+      ]
+    },
+    {
+      "id": "theforgottenline",
+      "name": "The Forgotten Line",
+      "description": "Something lurks in the shadows!",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/theforgottenline-v0.1.0/The.Forgotten.Line.zip",
+      "categories": ["Indie", "Horror", "Mystery"],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg"
+      ]
+    }
   ]
 }
