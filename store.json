@@ -11,6 +11,7 @@
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg"
       ]
     },
@@ -35,7 +36,17 @@
       "imageUrl": "",
       "heroUrl": "",
       "screenshots": []
+    },
+    {
+      "id": "smallproblems",
+      "name": "Small Problems",
+      "description": "There are some small problems!",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
+      "categories": ["Indie"],
+      "imageUrl": "",
+      "heroUrl": "",
+      "screenshots": []
     }
   ]
 }
-
