@@ -31,11 +31,11 @@
     {
       "id": "slimeimpact-v1.0.0",
       "name": "Slime Impact",
-      "description": "Riley Gough",
+      "description": "Hutao Platformer",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
       "categories": ["Indie"],
-      "developers": ["Cinder7832"],
+      "developers": ["Riley Gough"],
       "imageUrl": "",
       "heroUrl": "",
       "screenshots": []
@@ -54,3 +54,4 @@
     }
   ]
 }
+
