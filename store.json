@@ -36,9 +36,12 @@
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
       "categories": ["Indie"],
       "developers": ["Riley Gough"],
-      "imageUrl": "",
-      "heroUrl": "",
-      "images": []
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"]
     },
     {
       "id": "smallproblems",
@@ -66,3 +69,4 @@
     }
   ]
 }
+
