@@ -10,7 +10,7 @@
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
-      "screenshots": [
+      "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg"
@@ -26,7 +26,7 @@
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
-      "screenshots": []
+      "images": []
     },
     {
       "id": "slimeimpact-v1.0.0",
@@ -38,7 +38,7 @@
       "developers": ["Riley Gough"],
       "imageUrl": "",
       "heroUrl": "",
-      "screenshots": []
+      "images": []
     },
     {
       "id": "smallproblems",
@@ -50,9 +50,7 @@
       "developers": ["Reece Brown", "Subagent"],
       "imageUrl": "",
       "heroUrl": "",
-      "screenshots": []
+      "images": []
     }
   ]
 }
-
-
