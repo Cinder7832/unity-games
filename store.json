@@ -26,7 +26,10 @@
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
-      "images": []
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg"]
     },
     {
       "id": "slimeimpact-v1.0.0",
@@ -69,4 +72,5 @@
     }
   ]
 }
+
 
