@@ -3,11 +3,11 @@
     {
       "id": "everdew",
       "name": "Everdew",
-      "developer": "Devanand Asai, Riley Gough, Hiro Starritt, Johan Cardozo",
       "description": "A calm farming game.",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.0/Everdew.zip",
       "categories": ["Indie", "Chill"],
+      "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
       "screenshots": [
@@ -19,11 +19,11 @@
     {
       "id": "theforgottenline",
       "name": "The Forgotten Line",
-      "developer": "Devanand Asai, Riley Gough, Hiro Starritt",
       "description": "Something lurks in the shadows!",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/theforgottenline-v0.1.0/The.Forgotten.Line.zip",
       "categories": ["Mystery", "Horror"],
+      "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
       "screenshots": []
@@ -31,11 +31,11 @@
     {
       "id": "slimeimpact-v1.0.0",
       "name": "Slime Impact",
-      "developer": "Riley Gough",
-      "description": "Hutao Parkour",
+      "description": "Riley Gough",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
       "categories": ["Indie"],
+      "developers": ["Cinder7832"],
       "imageUrl": "",
       "heroUrl": "",
       "screenshots": []
@@ -43,11 +43,11 @@
     {
       "id": "smallproblems",
       "name": "Small Problems",
-      "developer": "Reece Brown, Mitchell Leslie",
       "description": "There are some small problems!",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
       "categories": ["Indie"],
+      "developers": ["Reece Brown", "Mitchell Leslie"],
       "imageUrl": "",
       "heroUrl": "",
       "screenshots": []
