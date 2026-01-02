@@ -3,6 +3,7 @@
     {
       "id": "everdew",
       "name": "Everdew",
+      "developer": "Devanand Asai, Riley Gough, Hiro Starritt, Johan Cardozo",
       "description": "A calm farming game.",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.0/Everdew.zip",
@@ -18,6 +19,7 @@
     {
       "id": "theforgottenline",
       "name": "The Forgotten Line",
+      "developer": "Devanand Asai, Riley Gough, Hiro Starritt",
       "description": "Something lurks in the shadows!",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/theforgottenline-v0.1.0/The.Forgotten.Line.zip",
@@ -29,6 +31,7 @@
     {
       "id": "slimeimpact-v1.0.0",
       "name": "Slime Impact",
+      "developer": "Riley Gough",
       "description": "Hutao Parkour",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
@@ -40,6 +43,7 @@
     {
       "id": "smallproblems",
       "name": "Small Problems",
+      "developer": "Reece Brown, Mitchell Leslie",
       "description": "There are some small problems!",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
@@ -50,4 +54,3 @@
     }
   ]
 }
-
