@@ -89,13 +89,14 @@
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v1.0.0/Cubo.zip",
       "categories": ["Indie", "Metroidvania"],
       "developers": ["Devanand Asai"],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json"
     }
   ]
 }
+
 
 
 
