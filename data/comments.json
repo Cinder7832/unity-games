@@ -1,12 +1,11 @@
 {
   "enabled": true,
-
   "provider": "giscus",
 
   "repo": "Cinder7832/unity-games",
-  "repoId": "YOUR_REPO_ID",
-  "category": "Comments",
-  "categoryId": "YOUR_CATEGORY_ID",
+  "repoId": "R_kgDOQxJm8g",
+  "category": "Game Comments",
+  "categoryId": "DIC_kwDOQxJm8c4C0ihE",
 
   "mapping": "specific",
   "termPrefix": "game:",
