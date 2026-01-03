@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+
+  "provider": "giscus",
+
+  "repo": "Cinder7832/unity-games",
+  "repoId": "YOUR_REPO_ID",
+  "category": "Comments",
+  "categoryId": "YOUR_CATEGORY_ID",
+
+  "mapping": "specific",
+  "termPrefix": "game:",
+
+  "theme": "transparent_dark",
+  "lang": "en",
+
+  "reactionsEnabled": true,
+  "emitMetadata": false,
+  "inputPosition": "top",
+  "strict": 0
+}
