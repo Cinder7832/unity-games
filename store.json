@@ -90,11 +90,12 @@
       "categories": ["Indie", "Metroidvania"],
       "developers": ["Devanand Asai"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json"
     }
   ]
 }
+
 
 
