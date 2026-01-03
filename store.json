@@ -49,7 +49,7 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
       ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact-v1.0.0.json"
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact.json"
     },
     {
       "id": "smallproblems",
@@ -83,3 +83,4 @@
     }
   ]
 }
+
