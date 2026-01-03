@@ -5,13 +5,13 @@
       "version": "0.1.0",
       "date": "2026-01-03",
       "title": "First release",
-      "text": "- Initial farming loop\n- Basic UI\n- First build"
+      "text": "- Fully functional core gameplay loop"
     },
     {
       "version": "0.1.1",
       "date": "2026-01-10",
       "title": "Hotfix",
-      "text": "- Fixed save bug\n- Improved performance\n- Better controller support"
+      "text": "- Test"
     }
   ]
 }
