@@ -58,7 +58,7 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
       "categories": ["Indie"],
-      "developers": ["Reece Brown", "Subagent"],
+      "developers": ["Fliffan", "Subagent"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
       "heroUrl": "",
       "images": [],
@@ -83,4 +83,5 @@
     }
   ]
 }
+
 
