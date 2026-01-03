@@ -86,14 +86,15 @@
       "name": "Cubo",
       "description": "A pixel art metroidvania",
       "version": "0.1.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/skyforgesprint-v0.1.0/Skyforge.Sprint.zip",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
       "categories": ["Indie", "Metroidvania"],
       "developers": ["Devanand Asai"],
-      "imageUrl": "",
-      "heroUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json"
     }
   ]
 }
+
 
