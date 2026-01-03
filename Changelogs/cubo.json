@@ -5,7 +5,7 @@
       "version": "0.1.0",
       "date": "2026-01-03",
       "title": "First release",
-      "text": "- Added the player\n- Made the Environment\n- Created movement mechanics such as slam and dash\n- Implemented basic enemy AI\n- Designed first level layout"
+      "text": "- Created the player and animations\n- Created the Environment\n- Created movement mechanics such as slam and dash\n- Implemented basic enemy AI\n- Designed first level layout"
     }
   ]
 }
