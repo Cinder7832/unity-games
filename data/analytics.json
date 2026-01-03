@@ -1,0 +1,8 @@
+{
+  "updatedAt": "2026-01-03T12:00:00Z",
+  "totals": { "downloads": 0, "installs": 0, "players": 0 },
+  "games": [
+    { "id": "everdew", "downloads": 1200, "installs": 900, "players": 420 },
+    { "id": "another-game", "downloads": 500, "installs": 300, "players": 120 }
+  ]
+}
