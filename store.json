@@ -14,7 +14,8 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
-      ]
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json"
     },
     {
       "id": "theforgottenline",
@@ -27,9 +28,11 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg", 
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg", 
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg"]
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/theforgottenline.json"
     },
     {
       "id": "slimeimpact-v1.0.0",
@@ -42,9 +45,11 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/hero.jpg",
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg", 
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg", 
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"]
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact-v1.0.0.json"
     },
     {
       "id": "smallproblems",
@@ -56,7 +61,8 @@
       "developers": ["Reece Brown", "Subagent"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
       "heroUrl": "",
-      "images": []
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/smallproblems.json"
     },
     {
       "id": "constructed",
@@ -69,16 +75,11 @@
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/hero.jpg",
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-1.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-4.jpg"]
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-4.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/constructed.json"
     }
   ]
 }
-
-
-
-
-
-
-
