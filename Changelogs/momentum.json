@@ -1,0 +1,11 @@
+{
+  "gameId": "momentum",
+  "entries": [
+    {
+      "version": "3.1.0",
+      "date": "2026-01-04",
+      "title": "First release",
+      "text": "- Added a new level\n- Added new mechanics\n- Minor bug fixes\n- Small quality of life fixes"
+    }
+  ]
+}
