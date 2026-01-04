@@ -16,7 +16,7 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": ["keyboardMouse"],
       "downloadSizeBytes": null
     },
     {
@@ -54,7 +54,7 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": ["keyboardMouse"],
       "downloadSizeBytes": null
     },
     {
@@ -118,8 +118,9 @@
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
-      "inputSupport": ["keyboardMouse", "controller"],
+      "inputSupport": ["keyboardMouse"],
       "downloadSizeBytes": null
     }
   ]
 }
+
