@@ -16,7 +16,8 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     },
     {
       "id": "theforgottenline",
@@ -34,7 +35,8 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/theforgottenline.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     },
     {
       "id": "slimeimpact-v1.0.0",
@@ -52,7 +54,8 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     },
     {
       "id": "smallproblems",
@@ -66,7 +69,8 @@
       "heroUrl": "",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/smallproblems.json",
-      "inputSupport": ["keyboardMouse"]
+      "inputSupport": ["keyboardMouse"],
+      "downloadSizeBytes": null
     },
     {
       "id": "constructed",
@@ -84,7 +88,8 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-4.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/constructed.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     },
     {
       "id": "cubo",
@@ -98,7 +103,8 @@
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     },
     {
       "id": "momentum",
@@ -112,7 +118,8 @@
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
-      "inputSupport": ["keyboardMouse", "controller"]
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     }
   ]
 }
