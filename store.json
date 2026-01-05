@@ -130,7 +130,7 @@
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/spillways-v1.0.0/Spillways.zip",
       "categories": ["Indie", "Horror"],
       "developers": ["The Lonely Devs"],
-      "imageUrl": "https://github.com/Cinder7832/unity-games/blob/main/images/Spillways/cover.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-1.jpg", 
@@ -141,4 +141,5 @@
     }
   ]
 }
+
 
