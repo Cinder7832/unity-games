@@ -120,9 +120,24 @@
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
       "inputSupport": ["keyboardMouse"],
       "downloadSizeBytes": null
+    },
+
+    {
+      "id": "spillways",
+      "name": "Spillways",
+      "description": "Because of the tale of the rat man, your friends decided to dare you to explore a sewer. Armed with nothing but a lighter, you must uncover the secrets that lie within. Soon you'll realise all is not as it seems...",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/spillways-v1.0.0/Spillways.zip",
+      "categories": ["Indie", "Horror"],
+      "developers": ["The Lonely Devs"],
+      "imageUrl": "https://github.com/Cinder7832/unity-games/blob/main/images/Spillways/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-1.jpg", 
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-3.jpg"],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/spillways.json",
+      "inputSupport": ["keyboardMouse", "controller"],
+      "downloadSizeBytes": null
     }
   ]
 }
-
-
-
