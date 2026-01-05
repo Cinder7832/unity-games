@@ -1,0 +1,11 @@
+{
+  "gameId": "spillways",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-01-05",
+      "title": "First release",
+      "text": "- Created the player and animations\n- Created the Environment\n- Designed level layout"
+    }
+  ]
+}
