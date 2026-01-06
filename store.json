@@ -32,6 +32,7 @@
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/theforgottenline.json",
@@ -141,5 +142,6 @@
     }
   ]
 }
+
 
 
