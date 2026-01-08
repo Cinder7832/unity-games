@@ -61,8 +61,8 @@
       "id": "smallproblems",
       "name": "Small Problems",
       "description": "There are some small problems!",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.0/Small.Problems.zip",
+      "version": "1.0.1",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.1/SmallProblems.zip",
       "categories": ["Indie"],
       "developers": ["Fliffan", "Subagent"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
