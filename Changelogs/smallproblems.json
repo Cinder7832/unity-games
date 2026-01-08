@@ -6,6 +6,12 @@
       "date": "2026-01-03",
       "title": "First release",
       "text": "- Not the fully playable version of Small Problems"
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-01-10",
+      "title": "Hotfix",
+      "text": "- Fully playable!"
     }
   ]
 }
