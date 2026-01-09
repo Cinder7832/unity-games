@@ -2,16 +2,16 @@
   "gameId": "smallproblems",
   "entries": [
     {
-      "version": "0.1.0",
-      "date": "2026-01-03",
-      "title": "First release",
-      "text": "- Not fully working"
-    },
-    {
       "version": "1.0.1",
       "date": "2026-01-10",
       "title": "Hotfix",
       "text": "- Fully playable!"
+    },
+    {
+      "version": "0.1.0",
+      "date": "2026-01-03",
+      "title": "First release",
+      "text": "- Not fully working"
     }
   ]
 }
