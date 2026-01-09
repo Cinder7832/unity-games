@@ -2,6 +2,12 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.2.1",
+      "date": "2026-01-09",
+      "title": "Hotfix",
+      "text": "- Fixed an issue where shops would not restock properly after being purchased from"
+    },
+    {
       "version": "0.2.0",
       "date": "2026-01-09",
       "title": "Second release",
