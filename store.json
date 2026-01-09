@@ -109,7 +109,7 @@
     {
       "id": "momentum",
       "name": "Momentum",
-      "description": "",
+      "description": "You must escape! You are a lost soul, determined to claw your way out of hell, to find a better place, can you make the climb?",
       "version": "3.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentum-v3.1.0/Momentum.zip",
       "categories": ["Indie", "Platformer"],
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
