@@ -4,8 +4,8 @@
       "id": "everdew",
       "name": "Everdew",
       "description": "A calm farming game.",
-      "version": "0.1.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.1.0/Everdew.zip",
+      "version": "0.2.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.2.0/Everdew.zip",
       "categories": ["Indie", "Chill"],
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
