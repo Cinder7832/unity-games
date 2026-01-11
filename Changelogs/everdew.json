@@ -2,6 +2,12 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.3.0",
+      "date": "2026-01-11",
+      "title": "Third release",
+      "text": "- Added volume slider in pause menu \n- Added Drag Harvesting Perk \n- Added info for perks\n- Fixed the box collider for one of the shops \n- Deselect items after 15 seconds of inactivity \n- Higher priced animals drops more fertiliser \n- Various bug fixes and quality of life improvements"
+    },
+    {
       "version": "0.2.1",
       "date": "2026-01-09",
       "title": "Hotfix",
