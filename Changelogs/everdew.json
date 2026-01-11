@@ -2,15 +2,21 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.3.3",
+      "date": "2026-01-11",
+      "title": "Hotfix 3",
+      "text": "- Changed the shop details UI to show what the shop sells instead of who the shop owner is \n- Improved the visuals for the shop details UI \n- Fixed the colours of butters sell UI"
+    },
+    {
       "version": "0.3.2",
       "date": "2026-01-11",
-      "title": "Hotfix",
+      "title": "Hotfix 2",
       "text": "- Fixed an where the info for perks would not display correctly \n- Fixed an a small typo in the shop UI"
     },
     {
       "version": "0.3.1",
       "date": "2026-01-11",
-      "title": "Hotfix",
+      "title": "Hotfix 1",
       "text": "- Some items were left out in the inventory that were used for testing purposes. These items have now been removed"
     },
     {
