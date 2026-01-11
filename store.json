@@ -3,7 +3,7 @@
     {
       "id": "everdew",
       "name": "Everdew",
-      "description": "When your grandfather passes away, he leaves his cherished farm to you and your brother Craig. To you, the farm is sacred ground, a living memory of your grandfather. But Craig, a sharp-witted businessman, sees only opportunity, land big enough to build a massive factory that could bring him both wealth and influence.\n\nThe brothers fight over the farm’s future, and in a moment of frustration, Craig makes a bold deal: “If you can earn 100,000 gold in 30 days from this farm, I’ll let you keep it. Fail, and the land is mine.”\n\nNow, the clock is ticking. You must transform a struggling, run-down farm into a thriving enterprise. Along the way, you uncover secrets about your grandfather’s past,  discover what true legacy means—not just for you, but for the entire community that depends on the farm.",
+      "description": "A calm farming game",
       "version": "0.3.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.0/Everdew.zip",
       "categories": ["Indie", "Chill"],
@@ -141,3 +141,4 @@
     }
   ]
 }
+
