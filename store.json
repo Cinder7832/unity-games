@@ -3,7 +3,7 @@
     {
       "id": "everdew",
       "name": "Everdew",
-      "description": "A calm farming game",
+      "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother.",
       "version": "0.3.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.0/Everdew.zip",
       "categories": ["Indie", "Chill"],
@@ -141,4 +141,5 @@
     }
   ]
 }
+
 
