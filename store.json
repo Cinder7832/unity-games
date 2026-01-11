@@ -4,8 +4,8 @@
       "id": "everdew",
       "name": "Everdew",
       "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother.",
-      "version": "0.3.1",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.1/Everdew.zip",
+      "version": "0.3.2",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.2/Everdew.zip",
       "categories": ["Indie", "Chill"],
       "developers": ["Devanand Asai", "Riley Gough", "Hiro Starritt", "Johan Cardozo"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
