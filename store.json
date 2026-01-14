@@ -39,7 +39,7 @@
       "downloadSizeBytes": null
     },
     {
-      "id": "slimeimpact-v1.0.0",
+      "id": "slimeimpact",
       "name": "Slime Impact",
       "description": "Hutao Platformer",
       "version": "1.0.0",
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
