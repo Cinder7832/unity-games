@@ -79,7 +79,7 @@
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
       "categories": ["Indie", "Platformer"],
-      "developers": ["Devanand Asai"],
+      "developers": ["Devanand Asai", "Someone", "Someone 2", "Someone 3", "Someone 4"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/hero.jpg",
       "images": [
@@ -141,6 +141,7 @@
     }
   ]
 }
+
 
 
 
