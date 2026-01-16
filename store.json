@@ -138,14 +138,25 @@
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/spillways.json",
       "inputSupport": ["keyboardMouse", "controller"],
       "downloadSizeBytes": null
+    },
+    {
+      "id": "hightide",
+      "name": "High Tide",
+      "description": "Craig is evil and he does bad things.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/hightide-v1.0.0/High.Time.zip",
+      "categories": ["Platformer", "Indie"],
+      "developers": ["Hiro Starritt"],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTide/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTide/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTide/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTide/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTide/shot-3.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/hightide.json",
+      "inputSupport": ["keyboardMouse"],
+      "downloadSizeBytes": null
     }
   ]
 }
-
-
-
-
-
-
-
-
