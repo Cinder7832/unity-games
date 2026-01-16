@@ -6,16 +6,14 @@
       "date": "2026-01-16",
       "tag": "Update",
       "body": [
-        "New launcher update.",
-        "This release improves download speed and adds analytics enhancements."
+        "New launcher update!",
+        "This is a major update with several new features and improvements:",
+        "- Added a new analytics tab where users can view detailed statistics about the games devs released and a rankings section to see top performers.",
+        "- Added a new announcements section to keep users informed about the latest news and updates.",
+        "- You can view recent updates or installs in the downloads page.",
+        "- The dev pills in store page now works as a horizontal scroll, making it easier to browse through them.",
+        "- The UI has been revamped with better animations and a nicer look and feel overall."
       ]
-    },
-    {
-      "id": "new-game-dev",
-      "title": "New Game Development",
-      "date": "2026-01-15",
-      "tag": "News",
-      "body": "We’re working on a new project. More details soon!"
     }
   ]
 }
