@@ -1,0 +1,21 @@
+{
+  "announcements": [
+    {
+      "id": "launcher-v2.0.0",
+      "title": "Launcher v2.0.0 Released",
+      "date": "2026-01-16",
+      "tag": "Update",
+      "body": [
+        "New launcher update.",
+        "This release improves download speed and adds analytics enhancements."
+      ]
+    },
+    {
+      "id": "new-game-dev",
+      "title": "New Game Development",
+      "date": "2026-01-15",
+      "tag": "News",
+      "body": "We’re working on a new project. More details soon!"
+    }
+  ]
+}
