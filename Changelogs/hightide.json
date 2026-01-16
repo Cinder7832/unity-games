@@ -1,0 +1,11 @@
+{
+  "gameId": "hightide",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-01-16",
+      "title": "First release",
+      "text": "- Fully playable game with working mechanics"
+    }
+  ]
+}
