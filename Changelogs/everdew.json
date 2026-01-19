@@ -2,6 +2,12 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.3.4",
+      "date": "2026-01-19",
+      "title": "Small additions and fixes",
+      "text": "- Added a fullscreen toggle in the pause menu \n- Added a resolution dropdown in the pause menu \n- Made the transition from main menu to game smoother"
+    },
+    {
       "version": "0.3.3",
       "date": "2026-01-11",
       "title": "Hotfix 3",
