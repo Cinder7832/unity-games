@@ -26,6 +26,19 @@
         "Craig is an evil man he does bad things",
         "Download it now!"
       ]
+    },
+    {
+      "id": "everdew-0.3.4-release",
+      "title": "Everdew v0.3.4 Released",
+      "date": "2026-01-19",
+      "tag": "Update",
+      "body": [
+        "Everdew has been updated to version 0.3.4!",
+        "This update includes small additions and fixes:",
+        "- Added a fullscreen toggle in the pause menu",
+        "- Added a resolution dropdown in the pause menu",
+        "- Made the transition from main menu to game smoother"
+      ]
     }
   ]
 }
