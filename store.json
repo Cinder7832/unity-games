@@ -3,7 +3,7 @@
     {
       "id": "everdew",
       "name": "Everdew",
-      "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother.",
+      "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother",
       "version": "0.3.4",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.4/Everdew.zip",
       "categories": [
@@ -136,7 +136,7 @@
       "id": "cubo",
       "name": "Cubo",
       "description": "A pixel art metroidvania",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
       "categories": [
         "Indie",
