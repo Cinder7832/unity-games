@@ -108,7 +108,7 @@
     {
       "id": "constructed",
       "name": "Constructed",
-      "description": "A platformer based in a construction site (Under Devolepment)",
+      "description": "A platformer based in a construction site",
       "version": "0.1.2",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
       "categories": [
@@ -135,7 +135,7 @@
     {
       "id": "cubo",
       "name": "Cubo",
-      "description": "A pixel art metroidvania",
+      "description": "A pixel art metroidvania (Under Devolepment)",
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
       "categories": [
