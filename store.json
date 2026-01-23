@@ -109,7 +109,7 @@
       "id": "constructed",
       "name": "Constructed",
       "description": "A platformer based in a construction site",
-      "version": "0.1.2",
+      "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
       "categories": [
         "Indie",
