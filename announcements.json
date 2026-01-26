@@ -9,7 +9,8 @@
         "New launcher update!",
         "This is a minor update with a few new features and improvements:",
         "- Added a check for updates button in the details page",
-        "- The launcher auto checks for updates for games and launcher updates when opened"
+        "- The launcher automatically checks for game updates when it opens",
+        "- The launcher also checks for launcher updates when it opens"
       ]
     },
     {
