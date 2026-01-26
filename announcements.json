@@ -1,19 +1,15 @@
 {
   "announcements": [
     {
-      "id": "launcher-v2.0.0",
-      "title": "Launcher v2.0.0 Released",
-      "date": "2026-01-16",
-      "tag": "Update",
+      "id": "launcher-v2.0.2",
+      "title": "Launcher v2.0.2 Released",
+      "date": "2026-01-26",
+      "tag": "Minor Update",
       "body": [
         "New launcher update!",
-        "This is a major update with several new features and improvements:",
-        "- Added a new analytics tab where users can view detailed statistics about the games devs released and a rankings section to see top performers",
-        "- Added a new announcements section to keep users informed about the latest news and updates",
-        "- You can view recent updates or installs in the downloads page",
-        "- The dev pills in store page now works as a horizontal scroll, making it easier to browse through them",
-        "- The UI has been revamped with better animations and a nicer look and feel",
-        "- Bug fixes and performance improvements"
+        "This is a minor update with a few new features and improvements:",
+        "- Added a check for updates button in the details page",
+        "- The launcher auto checks for updates for games and launcher updates when opened"
       ]
     },
     {
