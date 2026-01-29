@@ -135,7 +135,7 @@
     {
       "id": "cubo",
       "name": "Cubo",
-      "description": "A pixel art metroidvania (Under Devolepment)",
+      "description": "A pixel art metroidvania (Under Development)",
       "version": "0.1.1",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
       "categories": [
@@ -245,11 +245,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/hero.jpg",
-      "images": [
-        "",
-        "",
-        ""
-      ],
+      "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
       "inputSupport": [
         "keyboardMouse"
