@@ -250,7 +250,7 @@
         "",
         ""
       ],
-      "changelogUrl": "nhttps://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
       "inputSupport": [
         "keyboardMouse"
       ],
