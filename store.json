@@ -230,6 +230,31 @@
         "keyboardMouse"
       ],
       "downloadSizeBytes": null
+    },
+    {
+      "id": "earthling",
+      "name": "Earthling",
+      "description": "",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/earthling-v1.0.0/Earthling.zip",
+      "categories": [
+        "Indie"
+      ],
+      "developers": [
+        "Lauren"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/hero.jpg",
+      "images": [
+        "",
+        "",
+        ""
+      ],
+      "changelogUrl": "nhttps://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
     }
   ]
 }
