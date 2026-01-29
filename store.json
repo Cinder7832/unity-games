@@ -1,29 +1,195 @@
 {
   "games": [
     {
-      "id": "everdew",
-      "name": "Everdew",
-      "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother",
-      "version": "0.3.4",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.4/Everdew.zip",
+      "id": "earthling",
+      "name": "Earthling",
+      "description": "",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/earthling-v1.0.0/Earthling.zip",
       "categories": [
-        "Farming Sim",
-        "Cozy"
+        "Indie"
       ],
       "developers": [
-        "Devanand Asai",
-        "Riley Gough",
-        "Hiro Starritt",
-        "Johan Cardozo"
+        "Lauren"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/hero.jpg",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "hightime",
+      "name": "High Time",
+      "description": "Craig is evil and he does bad things.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/hightide-v1.0.0/High.Time.zip",
+      "categories": [
+        "Platformer",
+        "Indie"
+      ],
+      "developers": [
+        "Hiro Starritt"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/hero.jpg",
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-3.jpg"
       ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json",
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/hightime.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "spillways",
+      "name": "Spillways",
+      "description": "Because of the tale of the rat man, your friends decided to dare you to explore a sewer. Armed with nothing but a lighter, you must uncover the secrets that lie within. Soon you'll realise all is not as it seems...",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/spillways-v1.0.0/Spillways.zip",
+      "categories": [
+        "Indie",
+        "Horror"
+      ],
+      "developers": [
+        "The Lonely Devs"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-2.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/spillways.json",
+      "inputSupport": [
+        "keyboardMouse",
+        "controller"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "momentum",
+      "name": "Momentum",
+      "description": "You must escape! You are a lost soul, determined to claw your way out of hell, to find a better place, can you make the climb?",
+      "version": "3.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentum-v3.1.0/Momentum.zip",
+      "categories": [
+        "Indie",
+        "Platformer"
+      ],
+      "developers": [
+        "Isaac Nash"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/hero.jpg",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "cubo",
+      "name": "Cubo",
+      "description": "A pixel art metroidvania (Under Development)",
+      "version": "0.1.1",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
+      "categories": [
+        "Indie",
+        "Metroidvania"
+      ],
+      "developers": [
+        "Devanand Asai"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-2.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json",
+      "inputSupport": [
+        "keyboardMouse",
+        "controller"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "constructed",
+      "name": "Constructed",
+      "description": "A platformer based in a construction site",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
+      "categories": [
+        "Indie",
+        "Platformer"
+      ],
+      "developers": [
+        "Devanand Asai"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-3.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/constructed.json",
+      "inputSupport": [
+        "keyboardMouse",
+        "controller"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "smallproblems",
+      "name": "Small Problems",
+      "description": "There are some small problems!",
+      "version": "1.0.1",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.1/Small.Problems.zip",
+      "categories": [
+        "Indie"
+      ],
+      "developers": [
+        "Fliffan",
+        "Subagent"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
+      "heroUrl": "",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/smallproblems.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
+      "id": "slimeimpact",
+      "name": "Slime Impact",
+      "description": "Hutao Platformer",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
+      "categories": [
+        "Indie"
+      ],
+      "developers": [
+        "Riley Gough"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/hero.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
+      ],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact.json",
       "inputSupport": [
         "keyboardMouse"
       ],
@@ -59,194 +225,29 @@
       "downloadSizeBytes": null
     },
     {
-      "id": "slimeimpact",
-      "name": "Slime Impact",
-      "description": "Hutao Platformer",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
+      "id": "everdew",
+      "name": "Everdew",
+      "description": "Earn 1,000,000 in 30 days to save your late grandfather’s farm from your ambitious brother",
+      "version": "0.3.4",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/everdew-v0.3.4/Everdew.zip",
       "categories": [
-        "Indie"
+        "Farming Sim",
+        "Cozy"
       ],
       "developers": [
-        "Riley Gough"
+        "Devanand Asai",
+        "Riley Gough",
+        "Hiro Starritt",
+        "Johan Cardozo"
       ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/hero.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
       "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-3.jpg"
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
       ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact.json",
-      "inputSupport": [
-        "keyboardMouse"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "smallproblems",
-      "name": "Small Problems",
-      "description": "There are some small problems!",
-      "version": "1.0.1",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.1/Small.Problems.zip",
-      "categories": [
-        "Indie"
-      ],
-      "developers": [
-        "Fliffan",
-        "Subagent"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
-      "heroUrl": "",
-      "images": [],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/smallproblems.json",
-      "inputSupport": [
-        "keyboardMouse"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "constructed",
-      "name": "Constructed",
-      "description": "A platformer based in a construction site",
-      "version": "0.1.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
-      "categories": [
-        "Indie",
-        "Platformer"
-      ],
-      "developers": [
-        "Devanand Asai"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/hero.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-3.jpg"
-      ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/constructed.json",
-      "inputSupport": [
-        "keyboardMouse",
-        "controller"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "cubo",
-      "name": "Cubo",
-      "description": "A pixel art metroidvania (Under Development)",
-      "version": "0.1.1",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.1.0/Cubo.zip",
-      "categories": [
-        "Indie",
-        "Metroidvania"
-      ],
-      "developers": [
-        "Devanand Asai"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
-      "images": [
-          "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-1.jpg",
-          "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-2.jpg"],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/cubo.json",
-      "inputSupport": [
-        "keyboardMouse",
-        "controller"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "momentum",
-      "name": "Momentum",
-      "description": "You must escape! You are a lost soul, determined to claw your way out of hell, to find a better place, can you make the climb?",
-      "version": "3.1.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentum-v3.1.0/Momentum.zip",
-      "categories": [
-        "Indie",
-        "Platformer"
-      ],
-      "developers": [
-        "Isaac Nash"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/hero.jpg",
-      "images": [],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
-      "inputSupport": [
-        "keyboardMouse"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "spillways",
-      "name": "Spillways",
-      "description": "Because of the tale of the rat man, your friends decided to dare you to explore a sewer. Armed with nothing but a lighter, you must uncover the secrets that lie within. Soon you'll realise all is not as it seems...",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/spillways-v1.0.0/Spillways.zip",
-      "categories": [
-        "Indie",
-        "Horror"
-      ],
-      "developers": [
-        "The Lonely Devs"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-2.jpg"
-      ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/spillways.json",
-      "inputSupport": [
-        "keyboardMouse",
-        "controller"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "hightime",
-      "name": "High Time",
-      "description": "Craig is evil and he does bad things.",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/hightide-v1.0.0/High.Time.zip",
-      "categories": [
-        "Platformer",
-        "Indie"
-      ],
-      "developers": [
-        "Hiro Starritt"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/hero.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-1.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-3.jpg"
-      ],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/hightime.json",
-      "inputSupport": [
-        "keyboardMouse"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "earthling",
-      "name": "Earthling",
-      "description": "",
-      "version": "1.0.0",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/earthling-v1.0.0/Earthling.zip",
-      "categories": [
-        "Indie"
-      ],
-      "developers": [
-        "Lauren"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/hero.jpg",
-      "images": [],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json",
       "inputSupport": [
         "keyboardMouse"
       ],
