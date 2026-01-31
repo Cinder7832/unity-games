@@ -1,17 +1,18 @@
 {
   "announcements": [
     {
-      "id": "launcher-v2.1.0",
-      "title": "Launcher v2.1.0 Released",
-      "date": "2026-01-29",
+      "id": "launcher-v2.2.0",
+      "title": "Launcher v2.2.0 Released",
+      "date": "2026-01-31",
       "tag": "Update",
       "body": [
         "New launcher update!",
-        "This is update brings a few new additions, changes and fixes:",
-        "- Added a new “Move to position” option when right-clicking a Library game",
-        "- Improved DPI scaling to reduce cut-off UI on Store, Library, Details, and Settings",
-        "- Added a “Website” button in Settings to open the Nexus Launcher website",
-        "- Fixed an issue where the launcher briefly switched from Store to Library on startup when Library is set as the start page"
+        "This update brings highly requested system features and UI improvements:",
+        "- **System Tray Integration:** The launcher now minimizes to the tray to keep your games up to date in the background",
+        "- **Smart Background Behavior:** Added options for 'Start on Startup', 'Start Minimized', and 'Close to Tray' (Can be configured in the settings)",
+        "- **Desktop Notifications:** Get notified about new game releases, game updates, and launcher updates",
+        "- **Settings Redesign:** Reorganized the Settings page for better readability",
+        "- **Visual Polish:** Moved the Launcher Update check to the top for better visibility and updated UI elements"
       ]
     },
     {
