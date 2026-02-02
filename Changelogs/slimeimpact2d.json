@@ -1,0 +1,11 @@
+{
+  "gameId": "slimeimpact2d",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-02-02",
+      "title": "First release",
+      "text": "- Fully playable version of Slime Impact 2D"
+    }
+  ]
+}
