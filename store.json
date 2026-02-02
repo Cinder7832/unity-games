@@ -1,5 +1,26 @@
 {
   "games": [
+      {
+      "id": "slimeimpact2d",
+      "name": "Slime Impact 2D",
+      "description": "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact2d-v1.0.0/Slime.Impact.2D.zip",
+      "categories": [
+        "Metroidvania"
+      ],
+      "developers": [
+        "Riley Gough"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/files/images/SlimeImpact2D/cover.jpg",
+      "heroUrl": "",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact2d.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
     {
       "id": "earthling",
       "name": "Earthling",
