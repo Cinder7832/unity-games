@@ -1,9 +1,32 @@
 {
+  
   "games": [
+      {
+      "id": "momentumbound",
+      "name": "Momentum Bound",
+      "description": "",
+      "version": "0.1.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentumbound-v0.1.0/MomentumBound.zip",
+      "categories": [
+        "Platformer",
+        "2D"
+      ],
+      "developers": [
+        "Isaac Nash"
+      ],
+      "imageUrl": "",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/MomentumBound/hero.png",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentumbound.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
       {
       "id": "rhat",
       "name": "Rhat",
-      "description": "",
+      "description": "hey hey hey this is my game rhat please leave any comments of anything i could add, i will be trying to add as much as i can. for now this is just an early version",
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/rhat-v1.0.0/Rhat.zip",
       "categories": [
@@ -101,7 +124,7 @@
         "Horror"
       ],
       "developers": [
-        "The Lonely Devs"
+        "The Lonely Devs", "Isaac Nash", "Katherine Allen"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
