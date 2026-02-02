@@ -1,0 +1,11 @@
+{
+  "gameId": "momentumbound",
+  "entries": [
+    {
+      "version": "0.1.0",
+      "date": "2026-02-02",
+      "title": "Demo Release",
+      "text": "- Demo version of Momentum Bound"
+    }
+  ]
+}
