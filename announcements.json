@@ -1,25 +1,21 @@
 {
   "announcements": [
     {
-      "id": "launcher-v2.2.0",
-      "title": "Launcher v2.2.0 Released",
-      "date": "2026-01-31",
-      "tag": "Update",
+      "id": "rhat",
+      "title": "Rhat",
+      "date": "2026-02-02",
+      "tag": "New Game!",
       "body": [
-        "New launcher update!",
-        "This update brings some new system features and UI improvements:",
-        "- The launcher now minimizes to the tray to keep your games up to date in the background",
-        "- Added options for 'Start on Startup', 'Start Minimized', and 'Close to Tray' (Can be configured in the settings)",
-        "- Get notified about new game releases, game updates, and launcher updates through Desktop Notifications",
-        "- Reorganized the Settings page for better readability",
-        "- Moved the Launcher Update check to the top for better visibility and updated UI elements"
+        "New game release: Rhat",
+        "hey hey hey this is my game rhat please leave any comments of anything i could add, i will be trying to add as much as i can. for now this is just an early version",
+        "Download it now!"
       ]
     },
     {
       "id": "slimeimpact2d",
       "title": "Slime Impact 2D!",
       "date": "2026-02-02",
-      "tag": "Release",
+      "tag": "New Game!",
       "body": [
         "New game release: Slime Impact!",
         "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
@@ -27,16 +23,13 @@
       ]
     },
     {
-      "id": "everdew-0.3.4-release",
-      "title": "Everdew v0.3.4 Released",
-      "date": "2026-01-19",
-      "tag": "Update",
+      "id": "momentumbound",
+      "title": "Momentum Bound",
+      "date": "2026-02-02",
+      "tag": "New Game!",
       "body": [
-        "Everdew has been updated to version 0.3.4!",
-        "This update includes small additions and fixes:",
-        "- Added a fullscreen toggle in the pause menu",
-        "- Added a resolution dropdown in the pause menu",
-        "- Made the transition from main menu to game smoother"
+        "New game release: Slime Impact!",
+        "Download it now!"
       ]
     }
   ]
