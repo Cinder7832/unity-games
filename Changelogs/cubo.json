@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.0",
+      "date": "2026-02-02",
+      "title": "Update",
+      "text": "- Completed Crystal Caverns \n - Added new enemies and bosses \n - Introduced new player mechanics \n - Implemented a main menu and pause menu \n - Fixed bugs and improved performance"
+    },
+    {
       "version": "0.1.0",
       "date": "2026-01-03",
       "title": "Test Build",

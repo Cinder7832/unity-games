@@ -1,5 +1,20 @@
 {
   "announcements": [
+      {
+      "id": "cubo",
+      "title": "Rhat",
+      "date": "2026-02-02",
+      "tag": "New Update!",
+      "body": [
+        "New update for Cubo!",
+        "Completed Crystal Caverns",
+        "Added new enemies and bosses",
+        "Introduced new player mechanics",
+        "Implemented a main menu and pause menu",
+        "Fixed bugs and improved performance",
+        "Download it now!"
+      ]
+    },
     {
       "id": "rhat-v1.0.0",
       "title": "Rhat",
