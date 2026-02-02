@@ -1,7 +1,7 @@
 {
   "announcements": [
     {
-      "id": "rhat",
+      "id": "rhat-v1.0.0",
       "title": "Rhat",
       "date": "2026-02-02",
       "tag": "New Game!",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "id": "slimeimpact2d",
+      "id": "slimeimpact2d-v1.0.0",
       "title": "Slime Impact 2D!",
       "date": "2026-02-02",
       "tag": "New Game!",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": "momentumbound",
+      "id": "momentumbound-v0.1.0",
       "title": "Momentum Bound",
       "date": "2026-02-02",
       "tag": "New Game!",
