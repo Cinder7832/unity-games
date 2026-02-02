@@ -2,6 +2,18 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.2",
+      "date": "2026-02-02",
+      "title": "Hotfix",
+      "text": "- Fixed some missing corner tiles in the environment \n-Platforms now come back if the player falls off while they’re moving \n-Player control is disabled during the Chapter Intro"
+    },
+    {
+      "version": "0.2.1",
+      "date": "2026-02-02",
+      "title": "Hotfix",
+      "text": "- Synced main menu and pause menu settings across scenes \n- Fixed pause menu button input not working after changes in display settings"
+    },
+    {
       "version": "0.2.0",
       "date": "2026-02-02",
       "title": "Update",
