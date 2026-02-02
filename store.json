@@ -1,6 +1,28 @@
 {
   "games": [
       {
+      "id": "rhat",
+      "name": "Rhat",
+      "description": "",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/rhat-v1.0.0/Rhat.zip",
+      "categories": [
+        "Platformer",
+        "2D"
+      ],
+      "developers": [
+        "Harrison Lee"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Rhat/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Rhat/cover.jpg",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/rhat.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+      {
       "id": "slimeimpact2d",
       "name": "Slime Impact 2D",
       "description": "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
