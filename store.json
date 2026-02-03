@@ -318,6 +318,27 @@
         "keyboardMouse"
       ],
       "downloadSizeBytes": null
+    },
+    {
+      "id": "stride",
+      "name": "Stride",
+      "description": "Coming Soon",
+      "version": "0.0.0",
+      "zipUrl": "",
+      "categories": [
+        "2D"
+      ],
+      "developers": [
+        "Johan Cardozo"
+      ],
+      "imageUrl": "",
+      "heroUrl": "",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/stride.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
     }
   ]
 }
