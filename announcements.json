@@ -1,6 +1,6 @@
 {
   "announcements": [
-      {
+    {
       "id": "cubo",
       "title": "Cubo",
       "date": "2026-02-02",
@@ -26,14 +26,27 @@
       ]
     },
     {
-      "id": "slimeimpact2d-v1.0.0",
+      "id": "slimeimpact2d-v2.0.0",
       "title": "Slime Impact 2D!",
-      "date": "2026-02-02",
-      "tag": "New Game!",
+      "date": "2026-02-03",
+      "tag": "Major Update!",
       "body": [
-        "New game release: Slime Impact!",
-        "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
-        "Download it now!"
+        "Slime Impact 2D — Version 2.0.0 Update!",
+        "- Scientist buffs (damage speed, movement speed increase)",
+        "- Fixed black screen bug after teleporting to Nod-Krai",
+        "- Added end cutscene and credits",
+        "- Fixed player collisions",
+        "- Added in-game pause menu",
+        "- Insane Mode added",
+        "- Hardcore Mode and Insane Mode badges",
+        "- Skip text for intro cutscene",
+        "- Popups fully integrated and fixed",
+        "- Ifa now follows the player if too far",
+        "- Fixed Anemo ability not being granted from Red Riot",
+        "- Changed prefab size of Ghost Bomb",
+        "- Fixed main menu image size",
+        "- Slime King, Scientist and Lucifer now heal on player death",
+        "- And more!"
       ]
     },
     {
@@ -48,4 +61,4 @@
       ]
     }
   ]
-}
+    }
