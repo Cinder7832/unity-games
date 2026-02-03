@@ -2,6 +2,12 @@
   "gameId": "slimeimpact2d",
   "entries": [
     {
+      "version": "2.0.0",
+      "date": "2026-02-03",
+      "title": "Major update",
+      "text": "- Scientist buffs (damage speed, movement speed increase)\n- Fixed black screen bug after teleporting to Nod-Krai\n- Added end cutscene and credits\n- Fixed player collisions\n- Added in-game pause menu\n- Insane Mode added\n- Hardcore Mode and Insane Mode badges\n- Skip text for intro cutscene\n- Popups fully integrated and fixed\n- Ifa changes (he now follows the player if too far)\n- Fixed Anemo ability not being granted from Red Riot\n- Changed prefab size of Ghost Bomb\n- Fixed main menu image size\n- Slime King, Scientist and Lucifer now heal on player death\n- And more!"
+    },
+    {
       "version": "1.0.0",
       "date": "2026-02-02",
       "title": "First release",
