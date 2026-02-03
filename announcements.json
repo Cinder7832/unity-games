@@ -10,6 +10,7 @@
         "- New: Press Esc to return from the details page",
         "- Navigation now saves and restores scroll position for the Store and Library when opening details and returning",
         "- Resolved some update behavior issues",
+        "- Fixed an issue where multiple instance of the same game can be seen in the downloads",
         "- Added a minimum window size",
         "- The launcher now remembers your custom window size for next launch",
         "- Fixed the announcements layout",
