@@ -331,8 +331,8 @@
       "developers": [
         "Johan Cardozo"
       ],
-      "imageUrl": "",
-      "heroUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/stride.json",
       "inputSupport": [
