@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.4",
+      "date": "2026-02-02",
+      "title": "Hotfix",
+      "text": "- Fixed fullscreen handling to reduce brief taskbar/desktop flashes during gameplay \n- Adjusted the knockback of the Spear Gaurd \n- Bosses now stay in the stunned state for a bit longer when parried \n- Cursor now hides on game start and shows when the pause menu opens"
+    },
+    {
       "version": "0.2.3",
       "date": "2026-02-02",
       "title": "Hotfix",
