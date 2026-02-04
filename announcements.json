@@ -17,20 +17,14 @@
       ]
     },
     {
-      "id": "launcher-v2.2.2",
+      "id": "launcher-v2.2.3",
       "title": "Launcher",
-      "date": "2026-02-03",
-      "tag": "Launcher Update!",
+      "date": "2026-02-04",
+      "tag": "Minor Fixes and Improvements",
       "body": [
-        "Launcher — Version 2.2.2 Update!",
-        "- New: Press Esc to return from the details page",
-        "- Navigation now saves and restores scroll position for the Store and Library when opening details and returning",
-        "- Resolved some update behavior issues",
-        "- Fixed an issue where multiple instances of the same game can be seen in the downloads",
-        "- Added a minimum window size",
-        "- The launcher now remembers your custom window size for next launch",
-        "- Fixed the announcements layout",
-        "- Fixed the launcher update island in Settings not displaying correctly on higher DPI monitors"
+        "Launcher — Version 2.2.3 Update!",
+        "- Added fuzzy search support. You can now search by developer name to find matching games in both the Store and Library",
+        "- The notification behaviour was slightly inaccurate. Notifications should now send correctly",
       ]
     },
     {
