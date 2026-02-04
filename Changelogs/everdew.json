@@ -4,7 +4,7 @@
     {
       "version": "0.4.0",
       "date": "2026-02-04",
-      "title": "Major Features!",
+      "title": "Save & Load Update",
       "text": "- Added the highly requested save and load system \n- Options can now be adjusted directly from the main menu \n- Slightly refined overall UI colors for better readability and style \n- Removed tooltips due to a UI-related issue (will be revisited in a future update)"
     },
     {
