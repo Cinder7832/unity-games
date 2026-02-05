@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.5",
+      "date": "2026-02-05",
+      "title": "Hotfix",
+      "text": "- Fixed an issue that caused the main menu title to look weird \n-Gold can now be picked up correctly after death \n- The size of the trigger for the cavern safe point has been increased"
+    },
+    {
       "version": "0.2.4",
       "date": "2026-02-04",
       "title": "Hotfix",
