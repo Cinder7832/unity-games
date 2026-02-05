@@ -105,7 +105,8 @@
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-2.jpg",
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-3.jpg"
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-3.jpg",
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-4.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/hightime.json",
       "inputSupport": [
