@@ -2,6 +2,12 @@
   "gameId": "momentumbound",
   "entries": [
     {
+      "version": "0.2.0",
+      "date": "2026-02-06",
+      "title": "Bosses!",
+      "text": "- New bosses added! \n- Added hitflash \n- Added variable door sprites"
+    }
+    {
       "version": "0.1.0",
       "date": "2026-02-02",
       "title": "Demo Release",
