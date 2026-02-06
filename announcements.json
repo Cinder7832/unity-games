@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "momentumbound-v0.2.0",
+      "title": "Momentum Bound",
+      "date": "2026-02-06",
+      "tag": "New Update!",
+      "body": [
+        "Momentum Bound — Version 0.2.0 Update!",
+        "‎ ",
+        "- new bosses added!",
+        "- Added hitflash",
+        "- Added variable door sprites"
+      ]
+    },
+    {
       "id": "everdew-v0.4.0",
       "title": "Everdew",
       "date": "2026-02-04",
@@ -74,17 +87,6 @@
         "- Fixed main menu image size",
         "- Slime King, Scientist and Lucifer now heal on player death",
         "- And more!"
-      ]
-    },
-    {
-      "id": "momentumbound-v0.1.0",
-      "title": "Momentum Bound",
-      "date": "2026-02-02",
-      "tag": "New Game!",
-      "body": [
-        "New game release: Momentum Bound",
-        "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
-        "Download it now!"
       ]
     }
   ]
