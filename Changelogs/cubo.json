@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.6",
+      "date": "2026-02-07",
+      "title": "Adjustments and Fixes",
+      "text": "- Gump Rock now has increased health and improved movement speed \n- Time Dialled state should now work reliably \n- Adjusted background colors to feel more distant and less visually distracting \n- Rebalanced Spear Guard health \n- Fixed a bounce mushroom that was slightly misaligned \n- Added back the missing fade in the main menu"
+    },
+    {
       "version": "0.2.5",
       "date": "2026-02-05",
       "title": "Hotfix",
