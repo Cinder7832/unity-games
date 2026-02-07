@@ -1,6 +1,21 @@
 {
   "announcements": [
     {
+      "id": "cubo-v0.2.6",
+      "title": "Cubo",
+      "date": "2026-02-02",
+      "tag": "New Update",
+      "body": [
+        "Cubo — Version 0.2.6 Update!",
+        "- Gump Rock now has increased health and improved movement speed",
+        "- Time Dialled state should now work reliably",
+        "- Adjusted background colors to feel more distant and less visually distracting",
+        "- Rebalanced Spear Guard health",
+        "- Fixed a bounce mushroom that was slightly misaligned",
+        "- Added back the missing fade in the main menu"
+      ]
+    },
+    {
       "id": "momentumbound-v0.2.0",
       "title": "Momentum Bound",
       "date": "2026-02-06",
@@ -37,20 +52,6 @@
         "Launcher — Version 2.2.3 Update!",
         "- Added fuzzy search support. You can now search by developer name to find matching games in both the Store and Library",
         "- The notification behaviour was slightly inaccurate. Notifications should now send correctly"
-      ]
-    },
-    {
-      "id": "cubo",
-      "title": "Cubo",
-      "date": "2026-02-02",
-      "tag": "New Update!",
-      "body": [
-        "New update for Cubo!",
-        "- Completed Crystal Caverns",
-        "- Added new enemies and bosses",
-        "- Introduced new player mechanics",
-        "- Implemented a main menu and pause menu",
-        "- Fixed bugs and improved performance"
       ]
     },
     {
