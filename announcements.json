@@ -7,45 +7,8 @@
       "tag": "Major Update!",
       "body": [
         "Slime Impact 2D — Version 3.0.0 Update!",
-        "‎ ",
-        "New Features",
-        "- Pyro Metre",
-        "- Flame Ability",
-        "- Heal Ability",
-        "- Player Dashing",
-        "- Stamina system",
-        "- Custom Cursor",
-        "- FULL controller support",
-        "- Skip through dialogue option",
-        "- Respawn invincibility",
-        "- Visual damage feedback on player",
-        "‎ ",
-        "Changes / Bug Fixes",
-        "- Scientist buffs",
-        "- Lucifer buffs and nerfs",
-        "- Red Riot buffs",
-        "- Camera changes",
-        "- Ifa text now scales correctly",
-        "- Trigger hitbox changes",
-        "- Player no longer dies when Ifa dies due to Geo Shield",
-        "- Ghost Bomb now explodes when touching certain objects",
-        "- Scientist roll hitbox fixed",
-        "- Mouse no longer locks after going to the menu",
-        "- Anemo burst now boosts the player horizontally",
-        "- Spikes move slower",
-        "- Ending now works correctly",
-        "- Ghost Bomb now affects Lucifer and minions",
-        "- Geo Shield visual layer fixed",
-        "- Slime King no longer gets stuck on cage",
-        "- Scientist animation pixel issues fixed",
-        "- Door trigger sound spam fixed",
-        "- Attack hitboxes no longer trigger unintended objects",
-        "- Ground check fixed",
-        "- Screen no longer goes black after Nod-Krai teleport",
-        "- Scientist music now stops correctly",
-        "- Added fade into ocean",
-        "- Options menu no longer appears behind UI",
-        "- Mission text from dialogue no longer appears oversized"
+        "New Features: Pyro Metre, Flame Ability, Heal Ability, Player Dashing, Stamina System, Custom Cursor, Full Controller Support, Dialogue Skipping, Respawn Invincibility, Visual Damage Feedback.",
+        "Changes & Fixes: Enemy balance updates, camera improvements, UI scaling fixes, hitbox corrections, ability behavior tweaks, softlock prevention, visual and audio fixes, menu fixes, and multiple gameplay bug fixes."
       ]
     },
     {
@@ -55,12 +18,7 @@
       "tag": "New Update",
       "body": [
         "Cubo — Version 0.2.6 Update!",
-        "- Gump Rock now has increased health and improved movement speed",
-        "- Time Dialled state should now work reliably",
-        "- Adjusted background colors to feel more distant and less visually distracting",
-        "- Rebalanced Spear Guard health",
-        "- Fixed a bounce mushroom that was slightly misaligned",
-        "- Added back the missing fade in the main menu"
+        "Enemy balance improvements, Time Dialled reliability fixes, refined background colors, Spear Guard rebalance, bounce mushroom alignment fix, and main menu fade restored."
       ]
     },
     {
@@ -70,9 +28,7 @@
       "tag": "New Update!",
       "body": [
         "Momentum Bound — Version 0.2.0 Update!",
-        "- New bosses added!",
-        "- Added hitflash",
-        "- Added variable door sprites"
+        "New bosses added, hitflash implemented, and variable door sprites introduced."
       ]
     },
     {
@@ -82,13 +38,7 @@
       "tag": "New Update!",
       "body": [
         "Everdew — Version 0.4.0 Update!",
-        "‎ ",
-        "- Added the highly requested save and load system",
-        "- Options can now be adjusted directly from the main menu",
-        "- Slightly refined overall UI colors for better readability and style",
-        "- Removed tooltips due to a UI-related issue (will be revisited in a future update)",
-        "‎ ",
-        "If there are any bugs please write them down in the comments :)"
+        "Save & load system added, options now adjustable from the main menu, UI colors refined for readability, and tooltips temporarily removed due to a UI issue."
       ]
     },
     {
@@ -98,8 +48,7 @@
       "tag": "Minor Fixes and Improvements",
       "body": [
         "Launcher — Version 2.2.3 Update!",
-        "- Added fuzzy search support. You can now search by developer name to find matching games in both the Store and Library",
-        "- The notification behaviour was slightly inaccurate. Notifications should now send correctly"
+        "Fuzzy search added (including developer name search), and notification delivery accuracy improved."
       ]
     }
   ]
