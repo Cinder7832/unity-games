@@ -2,6 +2,12 @@
   "gameId": "slimeimpact2d",
   "entries": [
     {
+      "version": "3.0.0",
+      "date": "2026-02-08",
+      "title": "Major update",
+      "text": "New Features\n- Pyro Metre\n- Flame Ability\n- Heal Ability\n- Player Dashing\n- Stamina system\n- Custom Cursor\n- FULL controller support\n- Skip through dialogue option\n- Respawn invincibility\n- Visual damage on player\n\nChanges / Bug Fixes\n- Scientist buffs\n- Lucifer buffs and nerfs\n- Red Riot buffs\n- Camera changes\n- Ifa text scaled correctly\n- Trigger hitbox changes\n- Player no longer dies when Ifa dies due to Geo Shield\n- Ghost Bomb now explodes when touching certain objects\n- Scientist roll hitbox fixed\n- Mouse no longer locks after going to the menu\n- Anemo burst now boosts the player horizontally\n- Spikes slower\n- Ending now works correctly\n- Ghost Bomb now affects Lucifer and minions\n- Geo Shield visual layer fixed\n- Slime King no longer gets stuck on cage\n- Scientist animation pixel issues fixed\n- Door trigger sound spam fixed\n- Attack hitboxes no longer trigger unintended objects\n- Ground check fixed\n- Screen no longer goes black after Nod-Krai teleport\n- Scientist music now stops correctly\n- Fade into ocean added\n- Options menu no longer appears behind UI\n- Mission text from dialogue no longer appears oversized"
+    },
+    {
       "version": "2.0.0",
       "date": "2026-02-03",
       "title": "Major update",
