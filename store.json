@@ -2,6 +2,28 @@
   
   "games": [
       {
+      "id": "aknightsleapoffaith",
+      "name": "A Knights Leap of Faith",
+      "description": "Pain",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/aknightsleapoffaith-v1.0.0/A.Knights.Leap.of.Faith.zip",
+      "categories": [
+        "Platformer",
+        "2D"
+      ],
+      "developers": [
+        "Ben Freeman"
+      ],
+      "imageUrl": "",
+      "heroUrl": "",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/aknightsleapoffaith.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+      {
       "id": "momentumbound",
       "name": "Momentum Bound",
       "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
