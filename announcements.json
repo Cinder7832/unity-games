@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "id": "aknightsleapoffaith-v1.0.0",
+      "title": "A Knights Leap of Faith",
+      "date": "2026-02-09",
+      "tag": "New Game!",
+      "body": [
+        "A Knights Leap of Faith - v1.0.0",
+        "Pain"
+      ]
+    },
+    {
       "id": "slimeimpact2d-v3.0.0",
       "title": "Slime Impact 2D!",
       "date": "2026-02-08",
@@ -88,17 +98,6 @@
         "- Removed tooltips due to a UI-related issue (will be revisited in a future update)",
         "‎ ",
         "If there are any bugs please write them down in the comments :)"
-      ]
-    },
-    {
-      "id": "launcher-v2.2.3",
-      "title": "Launcher",
-      "date": "2026-02-04",
-      "tag": "Minor Fixes and Improvements",
-      "body": [
-        "Launcher — Version 2.2.3 Update!",
-        "- Added fuzzy search support. You can now search by developer name to find matching games in both the Store and Library",
-        "- The notification behaviour was slightly inaccurate. Notifications should now send correctly"
       ]
     }
   ]
