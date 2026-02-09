@@ -14,8 +14,8 @@
       "developers": [
         "Ben Freeman"
       ],
-      "imageUrl": "",
-      "heroUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/AKnightsLeapofFaith/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/AKnightsLeapofFaith/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/aknightsleapoffaith.json",
       "inputSupport": [
