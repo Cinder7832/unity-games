@@ -1,5 +1,14 @@
 {
   "announcements": [
+  {
+      "id": "test",
+      "title": "Test",
+      "date": "2026-02-10",
+      "tag": "Test",
+      "body": [
+        "Test"
+      ]
+    },
     {
       "id": "aknightsleapoffaith-v1.0.0",
       "title": "A Knights Leap of Faith",
