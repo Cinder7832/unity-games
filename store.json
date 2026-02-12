@@ -12,8 +12,8 @@
         "Platformer"
       ],
       "developers": ["Maksymilian Gorminski"],
-      "imageUrl": "",
-      "heroUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Mag-Curse/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Mag-Curse/hero.jpg",
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/mag-curse.json",
       "inputSupport": [
