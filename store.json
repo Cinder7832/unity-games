@@ -25,7 +25,7 @@
       "id": "stride",
       "name": "Stride Zero",
       "description": "Full game coming soon",
-      "version": "1.0.0",
+      "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/stridezero-v1.0.0/Stride.Zero.zip",
       "categories": [
         "2D"
