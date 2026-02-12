@@ -1,0 +1,11 @@
+{
+  "gameId": "mag-curse",
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-02-12",
+      "title": "First release",
+      "text": "- Fully playable version of Mag-Curse"
+    }
+  ]
+}
