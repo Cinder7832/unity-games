@@ -2,6 +2,26 @@
   
   "games": [
     {
+      "id": "mag-curse",
+      "name": "Mag-Curse",
+      "description": "Magnesium",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/mag-curse-v1.0.0/Mag-Curse.zip",
+      "categories": [
+        "2D",
+        "Platformer"
+      ],
+      "developers": ["Maksymilian Gorminski"],
+      "imageUrl": "",
+      "heroUrl": "",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/mag-curse.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "stride",
       "name": "Stride Zero",
       "description": "Full game coming soon",
