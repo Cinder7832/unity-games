@@ -1,6 +1,27 @@
 {
   
   "games": [
+    {
+      "id": "stride",
+      "name": "Stride Zero",
+      "description": "Full game coming soon",
+      "version": "1.0.0",
+      "zipUrl": "",
+      "categories": [
+        "2D"
+      ],
+      "developers": [
+        "Johan Cardozo"
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/cover.jpg",
+      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/hero.jpg",
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/stride.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    }
       {
       "id": "aknightsleapoffaith",
       "name": "A Knights Leap of Faith",
@@ -337,27 +358,6 @@
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-3.jpg"
       ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/everdew.json",
-      "inputSupport": [
-        "keyboardMouse"
-      ],
-      "downloadSizeBytes": null
-    },
-    {
-      "id": "stride",
-      "name": "Stride",
-      "description": "Coming Soon",
-      "version": "0.0.0",
-      "zipUrl": "",
-      "categories": [
-        "2D"
-      ],
-      "developers": [
-        "Johan Cardozo"
-      ],
-      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/cover.jpg",
-      "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/hero.jpg",
-      "images": [],
-      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/stride.json",
       "inputSupport": [
         "keyboardMouse"
       ],
