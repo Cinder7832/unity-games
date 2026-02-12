@@ -1,6 +1,26 @@
 {
   "announcements": [
     {
+      "id": "cubo-v0.2.7",
+      "title": "Cubo",
+      "date": "2026-02-12",
+      "tag": "New Update",
+      "body": [
+        "Cubo — Version 0.2.7 Update!",
+        "Gameplay Improvements & Arena Update",
+        "- Reworked the \"Grump Rock\" Arena with layout improvements and gameplay adjustments",
+        "- Added a Speedrun Timer toggle in the Options menu",
+        "- The game now tracks total player deaths and displays them on the end screen",
+        "- Moved a Cooler inside the \"Grump Rock\" arena to improve respawn flow",
+        "- Rebalanced Crystal Crawlers (reduced health and fixed respawn delay)",
+        "- Adjusted Spear Guard knockback distance",
+        "- Added an additional Patrolling Shroom enemy",
+        "- Fixed a bug where standing below gold could push the player into the tilemap",
+        "- Adjusted bounce height for one of the mushrooms",
+        "- Updated an overlooked area with additional sprites and tiles for improved visuals"
+      ]
+    },
+    {
       "id": "aknightsleapoffaith-v1.0.0",
       "title": "A Knights Leap of Faith",
       "date": "2026-02-09",
@@ -54,21 +74,6 @@
         "- Added fade into ocean",
         "- Options menu no longer appears behind UI",
         "- Mission text from dialogue no longer appears oversized"
-      ]
-    },
-    {
-      "id": "cubo-v0.2.6",
-      "title": "Cubo",
-      "date": "2026-02-07",
-      "tag": "New Update",
-      "body": [
-        "Cubo — Version 0.2.6 Update!",
-        "- Gump Rock now has increased health and improved movement speed",
-        "- Time Dialled state should now work reliably",
-        "- Adjusted background colors to feel more distant and less visually distracting",
-        "- Rebalanced Spear Guard health",
-        "- Fixed a bounce mushroom that was slightly misaligned",
-        "- Added back the missing fade in the main menu"
       ]
     },
     {
