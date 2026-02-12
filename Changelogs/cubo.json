@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.7",
+      "date": "2026-02-12",
+      "title": "Gameplay Improvements & Arena Update",
+      "text": "- Reworked the \"Grump Rock\" Arena with layout improvements and gameplay adjustments \n- Added a Speedrun Timer toggle in the Options menu \n- The game now tracks total player deaths and displays them on the end screen \n- Moved a Cooler inside the \"Grump Rock\" arena to improve respawn flow \n- Rebalanced Crystal Crawlers (reduced health and fixed respawn delay) \n- Adjusted Spear Guard knockback distance \n- Added an additional Patrolling Shroom enemy \n- Fixed a bug where standing below gold could push the player into the tilemap \n- Adjusted bounce height for one of the mushrooms \n- Updated an overlooked area with additional sprites and tiles for improved visuals"
+    },
+    {
       "version": "0.2.6",
       "date": "2026-02-07",
       "title": "Adjustments and Fixes",
