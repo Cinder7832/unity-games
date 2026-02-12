@@ -1,11 +1,11 @@
 {
-  "gameId": "stride",
+  "gameId": "stridezero",
   "entries": [
     {
-      "version": "0.0.0",
-      "date": "2026-02-02",
-      "title": "Announcement",
-      "text": "- Stride Coming Soon"
+      "version": "0.1.0",
+      "date": "2026-02-12",
+      "title": "Demo Version",
+      "text": "- Full game coming soon"
     }
   ]
 }
