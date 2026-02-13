@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.9",
+      "date": "2026-02-13",
+      "title": "Small Adjustments and Fixes",
+      "text": "- Fixed misalignment issues with the Chest and Cooler UI\n- Slightly adjusted the color and position of the Boulder Key Gate\n- Improved the visual presentation of tutorial prompts\n- Adjusted the position of the version number text\n- Corrected the formatting of the Best Time display\n- Made minor layout improvements to the Options menu"
+    },
+    {
       "version": "0.2.8",
       "date": "2026-02-12",
       "title": "Hotfix",
