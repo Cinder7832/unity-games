@@ -229,8 +229,8 @@
       "id": "cubo",
       "name": "Cubo",
       "description": "A pixel art metroidvania",
-      "version": "0.2.8",
-      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.2.8/Cubo.zip",
+      "version": "0.2.9",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/cubo-v0.2.9/Cubo.zip",
       "categories": [
         "2D",
         "Metroidvania"
