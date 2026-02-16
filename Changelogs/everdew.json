@@ -2,6 +2,12 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.4.1",
+      "date": "2026-02-16",
+      "title": "Time & Save Fixes",
+      "text": "- Fixed an issue where the save and load system didn't accurately save the time of day \n- Fixed the day/night cycle so the day counter properly advances at midnight (12:00 AM) instead of sunrise \n- Fixed an issue where day/night lighting would slowly fade in when loading a save. The environment now instantly snaps to the correct time of day \n- Fixed an issue where time passed at inconsistent speeds during the day and night. The in-game clock now progresses at a steady, consistent rate through all daily phases \n- Fixed a bug where shop inventory would incorrectly reset to full stock when loading a saved game. Seed quantities now persist correctly between sessions \n- Turned off the Raycast for the fade out image so button clicks can be clickable during load \n- Removed some of the lights in the scene that turns on at night"
+    },
+    {
       "version": "0.4.0",
       "date": "2026-02-04",
       "title": "Save & Load Update",
