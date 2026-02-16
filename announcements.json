@@ -1,6 +1,23 @@
 {
   "announcements": [
     {
+      "id": "everdew-v0.4.1",
+      "title": "Everdew",
+      "date": "2026-02-16",
+      "tag": "New Update",
+      "body": [
+        "Everdew — Version 0.4.1 Update!",
+        "Time & Save Fixes",
+        "- Fixed an issue where the save and load system didn't accurately save the time of day",
+        "- Fixed the day/night cycle so the day counter properly advances at midnight (12:00 AM) instead of sunrise",
+        "- Fixed an issue where day/night lighting would slowly fade in when loading a save. The environment now instantly snaps to the correct time of day",
+        "- Fixed an issue where time passed at inconsistent speeds during the day and night. The in-game clock now progresses at a steady, consistent rate through all daily phases",
+        "- Fixed a bug where shop inventory would incorrectly reset to full stock when loading a saved game. Seed quantities now persist correctly between sessions",
+        "- Turned off the Raycast for the fade out image so button clicks can be clickable during load",
+        "- Removed some of the lights in the scene that turns on at night"
+      ]
+    },
+    {
       "id": "cubo-v0.2.7",
       "title": "Cubo",
       "date": "2026-02-12",
@@ -74,18 +91,6 @@
         "- Added fade into ocean",
         "- Options menu no longer appears behind UI",
         "- Mission text from dialogue no longer appears oversized"
-      ]
-    },
-    {
-      "id": "momentumbound-v0.2.0",
-      "title": "Momentum Bound",
-      "date": "2026-02-06",
-      "tag": "Major Update",
-      "body": [
-        "Momentum Bound - Version 0.2.0 Update!",
-        "- New bosses added!",
-        "- Added hitflash",
-        "- Added variable door sprites"
       ]
     }
   ]
