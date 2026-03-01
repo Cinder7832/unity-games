@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "version": "1.2.0",
+      "date": "2025-01-15",
+      "title": "New Features",
+      "text": "- Added launcher changelog viewer\n- Improved tray behavior\n- Bug fixes"
+    },
+    {
+      "version": "1.1.0",
+      "date": "2025-01-01",
+      "title": "Initial Release",
+      "text": "- First public release"
+    }
+  ]
+}
