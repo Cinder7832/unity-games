@@ -1,0 +1,12 @@
+{
+  "collections": [
+    {
+      "title": "Horror Games",
+      "gameIds": ["theforgottenline", "spillways"]
+    },
+    {
+      "title": "Cozy & Casual",
+      "gameIds": ["everdew", "slimeimpact", "cubo"]
+    }
+  ]
+}
