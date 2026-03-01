@@ -81,7 +81,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/MomentumBound/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/MomentumBound/hero.png",
-      "videos": [],
+      "videos": ["https://youtu.be/USx9kkohVwM?si=BAHP4826LsMgQ6EF"],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentumbounddemo.json",
       "inputSupport": [
