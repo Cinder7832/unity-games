@@ -1,5 +1,4 @@
 {
-  
   "games": [
     {
       "id": "mag-curse",
@@ -14,6 +13,7 @@
       "developers": ["Maksymilian Gorminski"],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Mag-Curse/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Mag-Curse/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/mag-curse.json",
       "inputSupport": [
@@ -35,6 +35,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Stride/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/stride.json",
       "inputSupport": [
@@ -42,7 +43,7 @@
       ],
       "downloadSizeBytes": null
     },
-      {
+    {
       "id": "aknightsleapoffaith",
       "name": "A Knights Leap of Faith",
       "description": "Pain",
@@ -57,6 +58,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/AKnightsLeapofFaith/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/AKnightsLeapofFaith/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/aknightsleapoffaith.json",
       "inputSupport": [
@@ -64,7 +66,7 @@
       ],
       "downloadSizeBytes": null
     },
-      {
+    {
       "id": "momentumbounddemo",
       "name": "Momentum Bound Demo",
       "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
@@ -79,6 +81,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/MomentumBound/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/MomentumBound/hero.png",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentumbounddemo.json",
       "inputSupport": [
@@ -86,7 +89,7 @@
       ],
       "downloadSizeBytes": null
     },
-      {
+    {
       "id": "rhat",
       "name": "Rhat",
       "description": "hey hey hey this is my game rhat please leave any comments of anything i could add, i will be trying to add as much as i can. for now this is just an early version",
@@ -101,6 +104,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Rhat/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Rhat/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/rhat.json",
       "inputSupport": [
@@ -108,7 +112,7 @@
       ],
       "downloadSizeBytes": null
     },
-      {
+    {
       "id": "slimeimpact2d",
       "name": "Slime Impact 2D",
       "description": "The 2D sequel to Slime Impact covering the journey of Hu Tao who’s quest is to bring Slime King’s evil reign to an end and save Lady Furina, the Archon of Fontaine.",
@@ -122,6 +126,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact2D/cover.jpg",
       "heroUrl": "",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/slimeimpact2d.json",
       "inputSupport": [
@@ -143,6 +148,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Earthling/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/earthling.json",
       "inputSupport": [
@@ -165,6 +171,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/HighTime/shot-2.jpg",
@@ -188,10 +195,13 @@
         "Horror"
       ],
       "developers": [
-        "The Lonely Devs", "Isaac Nash", "Katherine Allen"
+        "The Lonely Devs",
+        "Isaac Nash",
+        "Katherine Allen"
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Spillways/shot-2.jpg"
@@ -218,6 +228,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Momentum/hero.jpg",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum.json",
       "inputSupport": [
@@ -240,6 +251,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Cubo/shot-2.jpg"
@@ -266,6 +278,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/Constructed/shot-2.jpg",
@@ -293,6 +306,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SmallProblems/cover.jpg",
       "heroUrl": "",
+      "videos": [],
       "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/smallproblems.json",
       "inputSupport": [
@@ -314,6 +328,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/SlimeImpact/shot-2.jpg",
@@ -342,6 +357,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/TheForgottenLine/shot-2.jpg",
@@ -372,6 +388,7 @@
       ],
       "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/cover.jpg",
       "heroUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/hero.jpg",
+      "videos": [],
       "images": [
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-1.jpg",
         "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/everdew/shot-2.jpg",
