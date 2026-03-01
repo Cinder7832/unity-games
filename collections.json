@@ -1,12 +1,20 @@
 {
   "collections": [
     {
-      "title": "Horror Games",
-      "gameIds": ["theforgottenline", "spillways"]
+        "title": "Craig Series",
+        "gameIds": ["momentumbounddemo", "rhat", "hightime", "spillways", "everdew"]
     },
     {
-      "title": "Cozy & Casual",
-      "gameIds": ["everdew", "slimeimpact", "cubo"]
+      "title": "2D",
+      "gameIds": ["everdew", "cubo", "erthling", "slimeimpact2d", "rhat", "momentumbounddemo", "aknightsleapoffaith", "stridezero", "magcurse"]
+    },
+    {
+        "title": "Third Person Platformer",
+        "gameIds": ["hightime", "momentum", "constructed", "slimeimpact"]
+    },
+    {
+      "title": "Horror Games",
+      "gameIds": ["theforgottenline", "spillways"]
     }
   ]
 }
