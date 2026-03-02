@@ -9,6 +9,10 @@
       "gameIds": ["everdew", "cubo", "erthling", "slimeimpact2d", "rhat", "momentumbounddemo", "aknightsleapoffaith", "stridezero", "magcurse"]
     },
     {
+      "title": "Game Jam",
+      "gameIds": ["everdew", "smallproblems"]
+    },
+    {
         "title": "Third Person Platformer",
         "gameIds": ["hightime", "momentum", "constructed", "slimeimpact"]
     },
