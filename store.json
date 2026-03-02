@@ -50,8 +50,8 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/aknightsleapoffaith-v1.0.0/A.Knights.Leap.of.Faith.zip",
       "categories": [
-        "Platformer",
-        "2D"
+        "2D",
+        "Platformer"
       ],
       "developers": [
         "Ben Freeman"
@@ -73,8 +73,8 @@
       "version": "0.2.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentumbounddemo-v0.2.0/Momentum.Bound.Demo.zip",
       "categories": [
-        "2D"
-        
+        "2D",
+        "Roguelike"
       ],
       "developers": [
         "Isaac Nash"
