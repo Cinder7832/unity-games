@@ -73,8 +73,8 @@
       "version": "0.2.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentumbounddemo-v0.2.0/Momentum.Bound.Demo.zip",
       "categories": [
-        "Platformer",
-        "2D"
+        "2D",
+        
       ],
       "developers": [
         "Isaac Nash"
@@ -119,6 +119,7 @@
       "version": "3.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact2d-v3.0.0/Slime.Impact.2D.zip",
       "categories": [
+        "2D",
         "Metroidvania"
       ],
       "developers": [
@@ -141,7 +142,7 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/earthling-v1.0.0/Earthling.zip",
       "categories": [
-        "Indie"
+        "2D"
       ],
       "developers": [
         "Lauren"
@@ -163,8 +164,7 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/hightime-v1.0.0/High.Time.zip",
       "categories": [
-        "Platformer",
-        "Indie"
+        "Platformer"
       ],
       "developers": [
         "Hiro Starritt"
@@ -191,7 +191,7 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/spillways-v1.0.0/Spillways.zip",
       "categories": [
-        "Indie",
+        "Tunnel",
         "Horror"
       ],
       "developers": [
@@ -220,7 +220,6 @@
       "version": "3.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentum-v3.1.0/Momentum.zip",
       "categories": [
-        "Indie",
         "Platformer"
       ],
       "developers": [
@@ -270,7 +269,6 @@
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/constructed-v0.1.0/Constructed.zip",
       "categories": [
-        "Indie",
         "Platformer"
       ],
       "developers": [
@@ -298,7 +296,8 @@
       "version": "1.0.1",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/smallproblems-v1.0.1/Small.Problems.zip",
       "categories": [
-        "Indie"
+        "Game Jam",
+        "Retro"
       ],
       "developers": [
         "Fliffan",
@@ -321,7 +320,7 @@
       "version": "1.0.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/slimeimpact-v1.0.0/Slime.Impact.zip",
       "categories": [
-        "Indie"
+        "Platformer"
       ],
       "developers": [
         "Riley Gough"
@@ -347,7 +346,7 @@
       "version": "0.1.0",
       "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/theforgottenline-v0.1.0/The.Forgotten.Line.zip",
       "categories": [
-        "Mystery",
+        "Tunnel",
         "Horror"
       ],
       "developers": [
