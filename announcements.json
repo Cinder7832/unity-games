@@ -5,9 +5,11 @@
       "title": "Momentum Bound Announcement!",
       "date": "2026-03-03",
       "tag": "Teaser",
-      "body": [
+      "body": 
+      [
         "Momentum Bound is officially launching soon!",
         "Watch the Teaser Trailer and Official Trailer now on the Momentum Bound Demo detail page to find out when Momentum Bound launches."
+      ]
     {
       "id": "nexus-launcher-v3.0.0",
       "title": "Nexus Launcher",
