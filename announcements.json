@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "everdew-v0.4.2",
+      "title": "Everdew Update!",
+      "date": "2026-03-05",
+      "tag": "New Update",
+      "body": [
+        "Cubo — Version 0.4.2 Update!",
+        "- Fixed a bug which caused animals that are dead to respawn after load",
+        "- Top down sprite sorting should now be more reliable",
+        "- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days",
+        "- Re-added the tooltip for the seed buttons"
+      ]
+    },
+    {
       "id": "momentum-bound-announcement",
       "title": "Momentum Bound Announcement!",
       "date": "2026-03-03",
@@ -72,26 +85,6 @@
         "- Fixed a bug where shop inventory would incorrectly reset to full stock when loading a saved game. Seed quantities now persist correctly between sessions",
         "- Turned off the Raycast for the fade out image so button clicks can be clickable during load",
         "- Removed some of the lights in the scene that turns on at night"
-      ]
-    },
-    {
-      "id": "cubo-v0.2.7",
-      "title": "Cubo",
-      "date": "2026-02-12",
-      "tag": "New Update",
-      "body": [
-        "Cubo — Version 0.2.7 Update!",
-        "Gameplay Improvements &amp; Arena Update",
-        "- Reworked the \"Grump Rock\" Arena with layout improvements and gameplay adjustments",
-        "- Added a Speedrun Timer toggle in the Options menu",
-        "- The game now tracks total player deaths and displays them on the end screen",
-        "- Moved a Cooler inside the \"Grump Rock\" arena to improve respawn flow",
-        "- Rebalanced Crystal Crawlers (reduced health and fixed respawn delay)",
-        "- Adjusted Spear Guard knockback distance",
-        "- Added an additional Patrolling Shroom enemy",
-        "- Fixed a bug where standing below gold could push the player into the tilemap",
-        "- Adjusted bounce height for one of the mushrooms",
-        "- Updated an overlooked area with additional sprites and tiles for improved visuals"
       ]
     }
   ]
