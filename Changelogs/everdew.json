@@ -2,6 +2,12 @@
   "gameId": "everdew",
   "entries": [
     {
+      "version": "0.4.2",
+      "date": "2026-03-05",
+      "title": "Small Adjustments and Fixes",
+      "text": "- Fixed a bug which caused animals that are dead to respawn after load\n- Top down sprite sorting should now be more reliable\n- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days\n- Re-added the tooltip for the seed buttons"
+    },
+    {
       "version": "0.4.1",
       "date": "2026-02-16",
       "title": "Time & Save Fixes",
