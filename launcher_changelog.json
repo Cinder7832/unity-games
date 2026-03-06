@@ -4,13 +4,13 @@
       "version": "3.0.2",
       "date": "2026-03-05",
       "title": "Hotfix",
-      "text": "Overview\n- Friends chat now updates in realtime\n- Changed the design of the delete messege button\n- Fixed an issue that caused the button in the friends page that allows you to check the details page for games your friends are playing to stop working"
+      "text": "- Friends chat now updates in realtime\n- Changed the design of the delete messege button\n- Fixed an issue that caused the button in the friends page that allows you to check the details page for games your friends are playing to stop working"
     },
     {
       "version": "3.0.1",
       "date": "2026-03-01",
       "title": "Hotfix",
-      "text": "Overview\n- Updated and refined the Friends page UI for better clarity and usability\n- Fixed an issue where parts of the UI were slightly misaligned at 150% DPI scaling\n- Improved the carousel transition animation for smoother visual flow\n- Minor stability improvements and visual polish"
+      "text": "- Updated and refined the Friends page UI for better clarity and usability\n- Fixed an issue where parts of the UI were slightly misaligned at 150% DPI scaling\n- Improved the carousel transition animation for smoother visual flow\n- Minor stability improvements and visual polish"
     },
     {
       "version": "3.0.0",
