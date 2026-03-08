@@ -6,7 +6,7 @@
     },
     {
       "title": "2D",
-      "gameIds": ["everdew", "cubo", "earthling", "slimeimpact2d", "rhat", "momentumbounddemo", "aknightsleapoffaith", "stride-zero", "mag-curse"]
+      "gameIds": ["mag-curse", "stride-zero", "aknightsleapoffaith", "momentumbounddemo", "rhat", "slimeimpact2d", "earthling", "cubo", "everdew"]
     },
     {
       "title": "Game Jam",
