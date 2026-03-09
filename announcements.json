@@ -69,23 +69,6 @@
         "- Fixed a bug that caused the Details page to open automatically after a game finished installing",
         "- Fixed an issue where the Details page could begin installing even after the game had already finished installing"
       ]
-    },
-    {
-      "id": "everdew-v0.4.1",
-      "title": "Everdew",
-      "date": "2026-02-16",
-      "tag": "New Update",
-      "body": [
-        "Everdew — Version 0.4.1 Update!",
-        "Time &amp; Save Fixes",
-        "- Fixed an issue where the save and load system didn't accurately save the time of day",
-        "- Fixed the day/night cycle so the day counter properly advances at midnight (12:00 AM) instead of sunrise",
-        "- Fixed an issue where day/night lighting would slowly fade in when loading a save. The environment now instantly snaps to the correct time of day",
-        "- Fixed an issue where time passed at inconsistent speeds during the day and night. The in-game clock now progresses at a steady, consistent rate through all daily phases",
-        "- Fixed a bug where shop inventory would incorrectly reset to full stock when loading a saved game. Seed quantities now persist correctly between sessions",
-        "- Turned off the Raycast for the fade out image so button clicks can be clickable during load",
-        "- Removed some of the lights in the scene that turns on at night"
-      ]
     }
   ]
 }
