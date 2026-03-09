@@ -6,7 +6,7 @@
       "date": "2026-03-05",
       "tag": "New Update",
       "body": [
-        "Cubo — Version 0.4.2 Update!",
+        "Everdew — Version 0.4.2 Update!",
         "- Fixed a bug which caused animals that are dead to respawn after load",
         "- Top down sprite sorting should now be more reliable",
         "- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days",
