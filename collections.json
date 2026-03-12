@@ -5,6 +5,10 @@
       "gameIds": ["momentumbounddemo", "rhat", "hightime", "spillways", "momentum", "everdew"]
     },
     {
+      "title": "Momentum Series",
+      "gameIds": ["momentumbounddemo", "momentum"]
+    },
+    {
       "title": "2D",
       "gameIds": ["mag-curse", "stride-zero", "aknightsleapoffaith", "momentumbounddemo", "rhat", "slimeimpact2d", "earthling", "cubo", "everdew"]
     },
