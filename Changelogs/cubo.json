@@ -2,6 +2,12 @@
   "gameId": "cubo",
   "entries": [
     {
+      "version": "0.2.10",
+      "date": "2026-03-14",
+      "title": "Small Adjustments and Fixes",
+      "text": "- Changed the colour and anchor of the version text\n- Slightly adjusted the position of the tutorial text due to it overlapping with some of the UI elements"
+    },
+    {
       "version": "0.2.9",
       "date": "2026-02-13",
       "title": "Small Adjustments and Fixes",
