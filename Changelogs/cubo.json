@@ -5,6 +5,12 @@
       "version": "0.2.10",
       "date": "2026-03-14",
       "title": "Small Adjustments and Fixes",
+      "text": "- Fixed the version text displaying the incorrect version number\n- The UI for a cooler was incorrectly aligned causing the UI to go off screen\n- Fixed the position of a cooler"
+    },
+    {
+      "version": "0.2.10",
+      "date": "2026-03-14",
+      "title": "Small Adjustments and Fixes",
       "text": "- Changed the colour and anchor of the version text\n- Slightly adjusted the position of the tutorial text due to it overlapping with some of the UI elements"
     },
     {
