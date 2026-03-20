@@ -1,6 +1,26 @@
 {
   "games": [
     {
+      "id": "touhou-but-peak",
+      "name": "Touhou But Peak",
+      "description": "Peak",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/touhou-but-peak-v1.0.0/Touhou.But.Peak.zip",
+      "categories": [
+        "2D"
+      ],
+      "developers": ["Hiro Starritt"],
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/touhou-but-peak.json",
+      "inputSupport": [
+        "keyboardMouse"
+      ],
+      "downloadSizeBytes": null
+    },
+    {
       "id": "mag-curse",
       "name": "Mag-Curse",
       "description": "Magnesium",
