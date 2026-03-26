@@ -13,7 +13,10 @@
       "imageUrl": "",
       "heroUrl": "",
       "videos": [],
-      "images": [],
+      "images": 
+      [
+        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/touhou-but-peak/cover.jpg"
+      ],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/touhou-but-peak.json",
       "inputSupport": [
         "keyboardMouse"
