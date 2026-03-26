@@ -1,5 +1,21 @@
 {
   "games": [
+      {
+      "id": "momentum-bound",
+      "name": "Momentum Bound",
+      "description": "Have you ever been trapped in your own head? Tortured by the misdeeds of your past? Find out if you can escape in Momentum Bound",
+      "version": "1.0.0",
+      "zipUrl": "https://github.com/Cinder7832/unity-games/releases/download/momentum-bound-v1.0.0/Momentum.Bound.zip",
+      "categories": ["2D", "Roguelike"],
+      "developers": ["Isaac Nash"],
+      "imageUrl": "",
+      "heroUrl": "",
+      "videos": [],
+      "images": [],
+      "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/momentum-bound.json",
+      "inputSupport": ["keyboardMouse"],
+      "downloadSizeBytes": null
+    },
     {
       "id": "touhou-but-peak",
       "name": "Touhou But Peak",

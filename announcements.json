@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "id": "momentum-bound-announcement",
+      "title": "Momentum Bound Announcement!",
+      "date": "2026-03-26",
+      "tag": "Full Release",
+      "body": 
+      [
+        "Momentum Bound is now available to play!"
+      ]
+    }
+    {
       "id": "touhou-but-peak-announcement",
       "title": "Touhou But Peak Announcement!",
       "date": "2026-03-20",
@@ -20,17 +30,6 @@
         "- Top down sprite sorting should now be more reliable",
         "- Reverted amount of days Pigs, Cows and Sheeps survive without food back to 5 days",
         "- Re-added the tooltip for the seed buttons"
-      ]
-    },
-    {
-      "id": "momentum-bound-announcement",
-      "title": "Momentum Bound Announcement!",
-      "date": "2026-03-03",
-      "tag": "Teaser",
-      "body": 
-      [
-        "Momentum Bound is officially launching soon!",
-        "Watch the Teaser Trailer and Official Trailer now on the Momentum Bound Demo detail page to find out when Momentum Bound launches."
       ]
     }
   ]
