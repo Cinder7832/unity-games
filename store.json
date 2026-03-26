@@ -26,13 +26,10 @@
         "2D"
       ],
       "developers": ["Hiro Starritt"],
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/touhou-but-peak/cover.jpg",
       "heroUrl": "",
       "videos": [],
-      "images": 
-      [
-        "https://raw.githubusercontent.com/Cinder7832/unity-games/main/images/touhou-but-peak/cover.jpg"
-      ],
+      "images": [],
       "changelogUrl": "https://raw.githubusercontent.com/Cinder7832/unity-games/main/Changelogs/touhou-but-peak.json",
       "inputSupport": [
         "keyboardMouse"
